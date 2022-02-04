@@ -17,7 +17,7 @@
 
 ## Description
 
-The eComm Web Shop uses React Redux to manage the complex global state. Using Stripe integration for a payment platform, users can search an assortment of products, add to card, and proceed to checkout with order total.
+The eComm Web Shop uses React Redux to manage the complex global state. Using Stripe integration for a payment gateway, users can search an assortment of products, add or remove from cart, and proceed to checkout with order total.
 
 <br />
 <br />
