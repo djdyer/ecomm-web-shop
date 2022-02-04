@@ -17,7 +17,7 @@
 
 ## Description
 
-...
+The eComm Web Shop uses React Redux to manage the complex global state. Using Stripe integration for a payment platform, users can search an assortment of products, add to card, and proceed to checkout with order total.
 
 <br />
 <br />
@@ -69,7 +69,8 @@ Heroku
 
 **Employing the following technology:**
 
-[<img src="./assets/images/...svg" height="20px">](https://.../)
+Redux
+[<img src="./assets/images/...svg" height="20px">](https://redux.js.org/)
 
 <br />
 <br />
@@ -83,8 +84,30 @@ Heroku
 
 ## Criteria
 
+Application uses redux to:
+
 ```
-...
+- manage global state.
+
+- accesses the frontend using provider.
+
+- passes reducers to determine changes.
+
+- extract state data to dispatch actions.
+```
+
+Users can then:
+
+```
+- register using the signup page.
+
+- navigate to products page, select category.
+
+- choose a product and view details
+
+- add or remove product from cart
+
+- proceed to checkout
 ```
 
 <br />
