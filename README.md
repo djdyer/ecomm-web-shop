@@ -69,6 +69,9 @@ Heroku
 
 **Employing the following technology:**
 
+https://redux.js.org/introduction/getting-started
+https://redux.js.org/tutorials/fundamentals/part-1-overview
+
 Redux
 [<img src="./assets/images/...svg" height="20px">](https://redux.js.org/)
 
