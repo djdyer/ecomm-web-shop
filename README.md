@@ -1,17 +1,17 @@
 # ecomm-web-shop
 
 <br />
+🛒 🛒 🛒 🛒
+<br />
 
 ## Table of Contents
 
 - [Description](#description)
 - [User Story](#user-story)
 - [Demo](#demo)
-- [Installation](#installation)
 - [Deployment](#deployment)
 - [License](#license)
 - [Criteria](#criteria)
-- [Collaboration](#collaboration)
 
 <br />
 
@@ -26,8 +26,8 @@ The eComm Web Shop uses React Redux to manage the complex global state. Using St
 
 ```
 AS a senior engineer working on an e-commerce platform
-I WANT my platform to use Redux to manage global state instead of the Context API
-SO THAT my website's state management is taken out of the React ecosystem
+I WANT my platform to use Redux to manage global state
+SO THAT my website's state management is removed from the React ecosystem
 ```
 
 <br />
@@ -35,26 +35,7 @@ SO THAT my website's state management is taken out of the React ecosystem
 
 ## Demo
 
-<img width="1200" src="./assets/demo/...png">
-
-<br />
-<br />
-
-## Installation
-
-⬇️
-
-... with the following command:
-
-```
-...
-```
-
-Application will run in the command-line with:
-
-```
-...
-```
+<img width="1200" src="./assets/demo/screenshot.png">
 
 <br />
 <br />
@@ -63,17 +44,23 @@ Application will run in the command-line with:
 
 Heroku
 
-[<img src="./assets/images/heroku.png" height="100px">](https://.../)
+[<img src="./assets/images/heroku.png" height="100px">](https://../)
 
 <br />
 
 **Employing the following technology:**
 
-https://redux.js.org/introduction/getting-started
-https://redux.js.org/tutorials/fundamentals/part-1-overview
+[<img src="./assets/images/react.svg" height="20px">](https://reactjs.org/)
 
-Redux
-[<img src="./assets/images/...svg" height="20px">](https://redux.js.org/)
+[<img src="./assets/images/redux.svg" height="20px">](https://redux.js.org/tutorials/fundamentals/part-1-overview)
+
+[<img src="./assets/images/mongoose.svg" height="20px">](https://mongoosejs.com/)
+
+[<img src="./assets/images/express.svg" height="20px">](https://expressjs.com/)
+
+[<img src="./assets/images/graphql.svg" height="20px">](https://graphql.org/)
+
+[<img src="./assets/images/stripe.svg" height="20px">](https://stripe.com/docs)
 
 <br />
 <br />
@@ -116,13 +103,6 @@ Users can then:
 <br />
 <br />
 
-## Collaboration
+Thank you, please come again!
 
-**...**
-
-<a href="https://github.com/..."><img src="https://avatars.githubusercontent.com/u/..." width="50px"/></a>
-
-<br />
-<br />
-
-Thanks for taking a look!
+🛍️
