@@ -3,6 +3,7 @@
 <br />
 🛒 🛒 🛒 🛒
 <br />
+<br />
 
 ## Table of Contents
 
@@ -50,16 +51,9 @@ Heroku
 
 **Employing the following technology:**
 
-[<img src="./assets/images/react.svg" height="20px">](https://reactjs.org/)
+[<img src="./assets/images/react.svg" height="20px">](https://reactjs.org/)  [<img src="./assets/images/redux.svg" height="20px">](https://redux.js.org/tutorials/fundamentals/part-1-overview) [<img src="./assets/images/mongoose.svg" height="20px">](https://mongoosejs.com/)
 
-[<img src="./assets/images/redux.svg" height="20px">](https://redux.js.org/tutorials/fundamentals/part-1-overview)
-
-[<img src="./assets/images/mongoose.svg" height="20px">](https://mongoosejs.com/)
-
-[<img src="./assets/images/express.svg" height="20px">](https://expressjs.com/)
-
-[<img src="./assets/images/graphql.svg" height="20px">](https://graphql.org/)
-
+[<img src="./assets/images/express.svg" height="20px">](https://expressjs.com/) [<img src="./assets/images/graphql.svg" height="20px">](https://graphql.org/)
 [<img src="./assets/images/stripe.svg" height="20px">](https://stripe.com/docs)
 
 <br />
